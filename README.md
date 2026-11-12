@@ -1,5 +1,8 @@
 🏙️ Smart City Digital Twin Project
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/cf7aef28-cd6e-49c6-a1a0-0586a23548a8" />
+
+
 📱 Unity 3D City Visualization
 
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/ede075a1-74cd-4d3c-a7c6-38ddca7a0ae3" />
